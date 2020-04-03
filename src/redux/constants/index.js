@@ -1,0 +1,1 @@
+export const INCOME_LOADED = 'INCOME_LOADED';
