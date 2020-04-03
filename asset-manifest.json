@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/financial-app/static/css/main.667f2a60.chunk.css",
+    "main.js": "/financial-app/static/js/main.c5a14fcf.chunk.js",
+    "main.js.map": "/financial-app/static/js/main.c5a14fcf.chunk.js.map",
+    "runtime-main.js": "/financial-app/static/js/runtime-main.25366e1e.js",
+    "runtime-main.js.map": "/financial-app/static/js/runtime-main.25366e1e.js.map",
+    "static/js/2.1847da45.chunk.js": "/financial-app/static/js/2.1847da45.chunk.js",
+    "static/js/2.1847da45.chunk.js.map": "/financial-app/static/js/2.1847da45.chunk.js.map",
+    "index.html": "/financial-app/index.html",
+    "precache-manifest.325899bee41814ccbdca616d7765b834.js": "/financial-app/precache-manifest.325899bee41814ccbdca616d7765b834.js",
+    "service-worker.js": "/financial-app/service-worker.js",
+    "static/css/main.667f2a60.chunk.css.map": "/financial-app/static/css/main.667f2a60.chunk.css.map",
+    "static/js/2.1847da45.chunk.js.LICENSE.txt": "/financial-app/static/js/2.1847da45.chunk.js.LICENSE.txt",
+    "static/media/income.png": "/financial-app/static/media/income.09ecc732.png",
+    "static/media/spending.png": "/financial-app/static/media/spending.664ff3dc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25366e1e.js",
+    "static/js/2.1847da45.chunk.js",
+    "static/css/main.667f2a60.chunk.css",
+    "static/js/main.c5a14fcf.chunk.js"
+  ]
+}
